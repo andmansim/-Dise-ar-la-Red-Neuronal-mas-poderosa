@@ -1,1 +1,3 @@
-# -Dise-ar-la-Red-Neuronal-mas-poderosa
+# -Diseñar-la-Red-Neuronal-mas-poderosa
+
+Link del repo:
